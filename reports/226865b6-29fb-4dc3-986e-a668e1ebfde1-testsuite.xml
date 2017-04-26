@@ -1,0 +1,74 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1493242840380" stop="1493242851354">
+  <name>test_2</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1493242840380" status="passed" stop="1493242851354">
+      <name>Test2.test_2</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="227404-MainThread"/>
+        <label name="host" value="DESKTOP-66NQF5J"/>
+      </labels>
+      <steps>
+        <step start="1493242845293" status="passed" stop="1493242849605">
+          <name>Тест 1. Добавление нового сотрудника</name>
+          <title>Тест 1. Добавление нового сотрудника</title>
+          <attachments>
+            <attachment source="379c8cc9-ba35-4ca4-a24d-56bccf6c9f5f-attachment.png" title="1step" type="image/png"/>
+          </attachments>
+          <steps>
+            <step start="1493242845293" status="passed" stop="1493242846276">
+              <name>Авторизация в системе</name>
+              <title>Авторизация в системе</title>
+              <attachments>
+                <attachment source="a26c58f6-8baa-4db7-ab4b-476234799758-attachment.png" title="1step" type="image/png"/>
+              </attachments>
+              <steps/>
+            </step>
+            <step start="1493242846276" status="passed" stop="1493242846709">
+              <name>Открытие формы добавления нового сотрудника</name>
+              <title>Открытие формы добавления нового сотрудника</title>
+              <attachments>
+                <attachment source="73721835-8fde-4a9d-bd23-d76e620d0a47-attachment.png" title="2step" type="image/png"/>
+              </attachments>
+              <steps/>
+            </step>
+            <step start="1493242846709" status="passed" stop="1493242847927">
+              <name>Заполнение формы нового сотрудника</name>
+              <title>Заполнение формы нового сотрудника</title>
+              <attachments>
+                <attachment source="11700a8b-1fdd-4e80-9ba1-02a5e900d98c-attachment.png" title="3step" type="image/png"/>
+              </attachments>
+              <steps/>
+            </step>
+            <step start="1493242847927" status="passed" stop="1493242849381">
+              <name>Поиск нового сотрудника</name>
+              <title>Поиск нового сотрудника</title>
+              <attachments>
+                <attachment source="2ae97674-da21-4ec1-ba29-72b381965bc2-attachment.png" title="4step" type="image/png"/>
+              </attachments>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+        <step start="1493242849605" status="passed" stop="1493242850079">
+          <name>Удаление нового сотрудника</name>
+          <title>Удаление нового сотрудника</title>
+          <attachments>
+            <attachment source="236dffa6-c56e-4cc9-8b32-1f46bc7b10b4-attachment.png" title="2step" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1493242850079" status="passed" stop="1493242851354">
+          <name>Проверка удаления нового сотрудника</name>
+          <title>Проверка удаления нового сотрудника</title>
+          <attachments>
+            <attachment source="674a2211-3d9f-49f0-af96-dbff33d01abd-attachment.png" title="3step" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

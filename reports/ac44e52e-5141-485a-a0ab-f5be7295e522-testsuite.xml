@@ -1,0 +1,49 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1493242831538" stop="1493242840330">
+  <name>test_1</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1493242831538" status="passed" stop="1493242840330">
+      <name>Test1.test_1</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="227404-MainThread"/>
+        <label name="host" value="DESKTOP-66NQF5J"/>
+      </labels>
+      <steps>
+        <step start="1493242836450" status="passed" stop="1493242837252">
+          <name>Авторизация в системе</name>
+          <title>Авторизация в системе</title>
+          <attachments>
+            <attachment source="e9a59d2b-8ef5-400a-9ed7-95ad72aa97ab-attachment.png" title="1step" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1493242837252" status="passed" stop="1493242837724">
+          <name>Открытие формы добавления нового сотрудника</name>
+          <title>Открытие формы добавления нового сотрудника</title>
+          <attachments>
+            <attachment source="600a2b69-27cc-4c0e-bb76-bbd0b23c9c96-attachment.png" title="2step" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1493242837724" status="passed" stop="1493242838951">
+          <name>Заполнение формы нового сотрудника</name>
+          <title>Заполнение формы нового сотрудника</title>
+          <attachments>
+            <attachment source="8da70529-35d3-4ec7-acd7-b4ac38289133-attachment.png" title="3step" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1493242838951" status="passed" stop="1493242840330">
+          <name>Поиск нового сотрудника</name>
+          <title>Поиск нового сотрудника</title>
+          <attachments>
+            <attachment source="e568363e-96dc-4548-8c77-e707fce0a5a0-attachment.png" title="4step" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
